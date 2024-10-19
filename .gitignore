@@ -4,3 +4,7 @@ __pycache__/
 *.zip
 *.tar.gz
 *.gch
+# vscode配置
+.vscode/
+# idea配置
+.idea/
